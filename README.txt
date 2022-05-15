@@ -1,8 +1,6 @@
-UNSUPPORTED
+[![Unsupported](https://img.shields.io/badge/pantheon-unsupported-yellow?logo=pantheon&color=FFDC28)](https://pantheon.io/docs/oss-support-levels#unsupported)
 
-Introduction
-------------
-Once you integrate Segment CDP into Drupal, this module extends the Segmentio module to integrate with Pantheon's Smart Content CDN to track winning personalization combinations.
+Drupal module that extends [`smart_content`](https://www.drupal.org/project/smart_content) and [`segmentio`](https://www.drupal.org/project/segmentio) to support Pantheon Edge Integrations and personalization features and track winning personalization combinations.
 
 Requirements
 ------------
