@@ -16,6 +16,8 @@
     },
     "require": {
         "drupal/smart_content": "^3.0",
+        "drupal/segmentio": "^1.0@alpha",
+        "pantheon-systems/smart_content_cdn": "^0.2.2",
         "pantheon-systems/pantheon-edge-integrations": "^1.0.0"
     },
     "require-dev": {
